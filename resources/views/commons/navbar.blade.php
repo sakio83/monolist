@@ -31,13 +31,6 @@
                             <ul class="dropdown-menu">
                                 <li>
                                     <a href="#">マイページ</a>
-                                    
-                            <a href="{{ route('items.create') }}">
-                                <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
-                                アイテムを追加
-                            </a>
-       
-
                                 </li>
                                 <li role="separator" class="divider"></li>
                                 <li>
